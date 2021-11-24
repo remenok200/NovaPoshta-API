@@ -1,7 +1,13 @@
-# Nova Poshta API
+### Nova Poshta API
 
 Установка всех модулей
-# npm i
+
+```
+npm i
+```
 
 Запуск проекта
-# npm run serve
+
+```
+npm run serve
+```
